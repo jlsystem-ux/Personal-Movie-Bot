@@ -1,13 +1,13 @@
 {
   "name": "personal-movie-bot",
   "version": "1.0.0",
-  "description": "Personal Movie Bot",
-  "main": "index.js",
+  "description": "WhatsApp Webhook Test Endpoint",
+  "main": "app.js",
   "scripts": {
-    "start": "node index.js"
+    "start": "node app.js"
   },
   "dependencies": {
-    // your dependencies here
+    "express": "^4.18.2"
   },
   "engines": {
     "node": ">=18.0.0"
